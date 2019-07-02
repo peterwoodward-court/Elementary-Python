@@ -1,4 +1,4 @@
-# User prompted to enter a number, test if even or odd
+# User prompted to enter a number, which will then be classified as even or odd
 user_input = input("Please enter a number: ")
 
 try:
